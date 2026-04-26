@@ -112,6 +112,7 @@ export NVM_DIR="$HOME/.nvm"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # alias vim="nvim"
 alias vi="nvim"
+alias ls="eza --icons --group-directories-first"
 
 
 eval "$(zoxide init zsh)"
